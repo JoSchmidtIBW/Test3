@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Stupsi2
+=======
+Stupsi k 2
+>>>>>>> 84029499e12da0f6da0c5832ff9fd457fd03f2bc
